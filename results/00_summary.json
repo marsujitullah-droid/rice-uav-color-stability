@@ -1,0 +1,44 @@
+{
+  "n_files_unique": 242,
+  "n_kept": 133,
+  "n_registered": 69,
+  "sessions": [
+    "S1",
+    "S2",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "n_tile_obs": 14044,
+  "n_tiles": 2869,
+  "n_tiles_multi": 2543,
+  "n_sim_obs": 3335,
+  "config": {
+    "SENSOR_W_MM": 6.17,
+    "FOCAL_MM": 3.61,
+    "MIN_ALT_M": 5.0,
+    "MAX_SATURATED": 0.5,
+    "BLUR_FRACTION": 0.4,
+    "SESSION_GAP_MIN": 60,
+    "REG_WORK_W": 1600,
+    "REG_MIN_INLIERS": 40,
+    "REG_MIN_RATIO": 0.2,
+    "REG_MAX_TRIES": 4,
+    "TILE_M": 4.0,
+    "EDGE_BUFFER_M": 0.3,
+    "SIM_GSD_CM": [
+      1,
+      1.5,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10
+    ]
+  },
+  "runtime_min": 16.2
+}

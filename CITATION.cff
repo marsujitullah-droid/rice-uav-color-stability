@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Flight altitude and camera angle effects on color-space features of rice (UAV RGB)"
+authors:
+  - family-names: Marsujitullah
+    orcid: "https://orcid.org/0000-0002-8185-9073"
+  - family-names: Surjono
+    given-names: Herman Dwi
+    orcid: "https://orcid.org/0000-0002-2720-2206"
+  - family-names: Jati
+    given-names: Handaru
+    orcid: "https://orcid.org/0000-0002-0509-8460"
+license: MIT
